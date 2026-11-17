@@ -32,7 +32,7 @@ The detection engine evaluates normalized `datetime` events against configurable
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/auth-bruteforce-monitor.git
+[https://github.com/sandeshhalabhavi12-bot/auth-bruteforce-monitor.git](https://github.com/sandeshhalabhavi12-bot/auth-bruteforce-monitor.git)
 cd auth-bruteforce-monitor
 python3 -m venv venv
 source venv/bin/activate
@@ -94,8 +94,12 @@ Running `python3 log_analyzer.py -f sample_auth.log` produces the following repo
 ---
 
 ## Screenshots
+## CLI Execution Output
+![CLI Execution Output](<YOUR_TERMINAL_SCREENSHOT_NAME.png>)
 
-> **Note:** Replace the placeholders below with actual captures from your terminal and rendered Markdown viewer before publishing.
+## Rendered Incident Report View
+![Rendered Report Screenshot](<YOUR_REPORT_SCREENSHOT_NAME.png>)
+
 
 ### CLI Execution Output
 ![CLI Execution Screenshot](docs/screenshots/cli_execution.png)
