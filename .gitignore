@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Generated Incident Reports & Temporary Artifacts
+incident_report.md
+*_report.md
+*.log.bak
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
