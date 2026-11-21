@@ -94,20 +94,12 @@ Running `python3 log_analyzer.py -f sample_auth.log` produces the following repo
 ---
 
 ## Screenshots
-## CLI Execution Output
-![CLI Execution Output](<YOUR_TERMINAL_SCREENSHOT_NAME.png>)
-
-## Rendered Incident Report View
-![Rendered Report Screenshot](<YOUR_REPORT_SCREENSHOT_NAME.png>)
-
 
 ### CLI Execution Output
-![CLI Execution Screenshot](docs/screenshots/cli_execution.png)
+![CLI Execution Output](cli_output.png)
 
 ### Rendered Incident Report View
-![Rendered Report Screenshot](docs/screenshots/markdown_report.png)
-
----
+![Rendered Incident Report View](rendered_report.png)
 
 ## License
 
