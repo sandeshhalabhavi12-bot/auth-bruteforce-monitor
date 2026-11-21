@@ -96,16 +96,11 @@ Running `python3 log_analyzer.py -f sample_auth.log` produces the following repo
 ## Screenshots
 
 ### CLI Execution Output
-![CLI Execution Output](<cli_output.png>)
+<img width="1902" height="377" alt="cli_output png" src="https://github.com/user-attachments/assets/e6a229a7-03b8-4835-a18f-6eee5e55cb8d" />
 
 ### Rendered Incident Report View
-![Rendered Incident Report View](<rendered_report.png>)
+<img width="1537" height="821" alt="rendered_report png" src="https://github.com/user-attachments/assets/4cef0fcd-1839-40c5-a896-5ab8f939e968" />
 
-### CLI Execution Output
-![CLI Execution Output](cli_output.png)
-
-### Rendered Incident Report View
-![Rendered Incident Report View](rendered_report.png)
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
