@@ -101,6 +101,11 @@ Running `python3 log_analyzer.py -f sample_auth.log` produces the following repo
 ### Rendered Incident Report View
 ![Rendered Incident Report View](<rendered_report.png>)
 
+### CLI Execution Output
+![CLI Execution Output](cli_output.png)
+
+### Rendered Incident Report View
+![Rendered Incident Report View](rendered_report.png)
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
